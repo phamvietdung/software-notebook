@@ -1,7 +1,7 @@
 ## Application1 dfklndflkbnkfbndlfkb
  - DDD phải tradeoff giữa performance và tiêu chí của ddd
 
-## Application2
+## Application2 333
  - DDD phải tradeoff giữa performance và tiêu chí của ddd( là phải save cả domain lên cùng lúc, thay vì seprate các thành phần của domain)
  
 ## Database
