@@ -1,4 +1,4 @@
-## Application1 dfklndflkbndlfkbndlkfbndlfkbldkfbnldkfbndlfkb
+## Application1 dfklndflkbnkfbndlfkb
  - DDD phải tradeoff giữa performance và tiêu chí của ddd
 
 ## Application2
