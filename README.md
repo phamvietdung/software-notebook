@@ -21,3 +21,10 @@
  - For + Parallel performance: Trên tập dữ liệu nhỏ dạng static không có nhiều sự thay đổi < 1k loop. Tuy nhiên > 1k loop sẽ chênh nhau 1s khi xử lý. Chưa test trên việc async/await dữ liệu. DBcontext ko share trên nhiều theard được. Nên khi chạy parallel sẽ bị crash.
 
 ## Testing
+
+
+
+## Coding
+ - For + Parallel performance: Trên tập dữ liệu nhỏ dạng static không có nhiều sự thay đổi < 1k loop. Tuy nhiên > 1k loop sẽ chênh nhau 1s khi xử lý. Chưa test trên việc async/await dữ liệu. DBcontext ko share trên nhiều theard được. Nên khi chạy parallel sẽ bị crash.
+
+## Testing
