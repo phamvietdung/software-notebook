@@ -4,6 +4,10 @@
 ## Application2 333
  - DDD phải tradeoff giữa performance và tiêu chí của ddd( là phải save cả domain lên cùng lúc, thay vì seprate các thành phần của domain)
  
+
+## Application2 333
+ - DDD phải tradeoff giữa performance và tiêu chí của ddd( là phải save cả domain lên cùng lúc, thay vì seprate các thành phần của domain)
+ 
 ## Database
  - Nên có metadata database: collect các thông tin như region, gender, location. Thông tin này có thể chia theo tenant. Các lựa chọn không có tenantId được mặc định hiểu là default.
  - Dynamic field không poor performance như dự tính, khi deploy trên localhost load 1k record tốn 6s. Nhưng khi deploy lên server ~ 0.6s (Test trên khoảng 20 field dynamic)
